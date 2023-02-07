@@ -1,6 +1,8 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=Welcom!&fontSize=90&desc=%20%20Jamin's%20GitHub%20Profile)
 <div align="center">
+	![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=Welcom!&fontSize=90&desc=%20%20Jamin's%20GitHub%20Profile)
+</div>
 
+<div align="center">
 	<p>안녕하세요</p>
 	<p>프론트엔드 개발자 지망생 손자민입니다! </P>
 </div>
