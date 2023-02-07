@@ -16,7 +16,7 @@
 	<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" />
 	
 	
-	<p>📖 Library 📖</P>
+<p>📖 Library 📖</P>
 	<img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jQuery=white" />
 	
 	
