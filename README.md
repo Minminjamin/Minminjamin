@@ -16,11 +16,19 @@
 	<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" />
 	
 	
-<p>📖 Library 📖</P>
+<p>📖 Front-end 📖</P>
 	<img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jQuery=white" />
+	<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white" />
+	<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=Vue.js&logoColor=white" />
+
+<p>📖 Back-end 📖</P>
+	<img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=Flask&logoColor=white" />
+
+<p>📖 DataBase 📖</P>
+	<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white" />
 	
-	
-	<p> 🛠 Tools 🛠</p>
+<p> 🛠 Tools 🛠</p>
 	<img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=VisualStudioCode&logoColor=white" />
 	<img src="https://img.shields.io/badge/Visual Studio-#5C2D91?style=flat&logo=Visual Studio&logoColor=white" />
+	<img src="https://img.shields.io/badge/CodePen-000000?style=flat&logo=CodePen&logoColor=white" />
 </div>
