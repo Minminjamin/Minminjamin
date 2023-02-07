@@ -15,8 +15,10 @@
 	<img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white" />
 	<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" />
 	
+	
 	<p>📖 Library 📖</P>
 	<img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jQuery=white" />
+	
 	
 	<p> 🛠 Tools 🛠</p>
 	<img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=VisualStudioCode&logoColor=white" />
