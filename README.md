@@ -1,6 +1,4 @@
-<div align="center">
-	![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=Welcom!&fontSize=90&desc=%20%20Jamin's%20GitHub%20Profile)
-</div>
+![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=Welcom!&fontSize=90&desc=%20%20Jamin's%20GitHub%20Profile)
 
 <div align="center">
 	<p>안녕하세요</p>
@@ -24,11 +22,14 @@
 	<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white" />
 	<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=Vue.js&logoColor=white" />
 
+
 <p>📖 Back-end 📖</P>
 	<img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=Flask&logoColor=white" />
 
+
 <p>📖 DataBase 📖</P>
 	<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white" />
+	
 	
 <p> 🛠 Tools 🛠</p>
 	<img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=VisualStudioCode&logoColor=white" />
