@@ -9,7 +9,8 @@ const jamin = {
 	name: '손자민', 
 	github: 'https://github.com/Minminjamin',
 	blog : 'https://blog.naver.com/wkwk051215', 
-	email: '0429el@gmail.com'};
+	email: '0429el@gmail.com'
+};
 ```
 
 # Project
